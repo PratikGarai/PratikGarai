@@ -24,4 +24,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikGarai&count_private=true)
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikGarai&count_private=false)
