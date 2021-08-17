@@ -1,9 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pratik Garai</h1>
+<h3 align="center">CSE Student, VIT Chennai</h3>
+<br><br>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PratikGarai&label=Profile%20views&color=0e75b6&style=flat" alt="PratikGarai" /> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500" height="320" />
 
 ### 🌱 I’m currently learning ...
 - Web Development
-- Computer Vision
-- Competitive Coding
+- AI ML
+- DSA and Competitive Coding
 
 ### 👯 I’m looking to collaborate on ...
 - Web Developmet
@@ -24,4 +29,6 @@
 - ⚡ Fun fact: ...
 -->
 
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikGarai&count_private=false)
+<br><br>
+![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=PratikGarai&count_private=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikGarai&theme=light" alt="pratikgarai" /></p>
