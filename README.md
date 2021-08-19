@@ -7,17 +7,17 @@
   <img alt="GIF" src="https://raw.githubusercontent.com/PratikGarai/PratikGarai/master/code.gif" width="500px"/>
 </p>
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning
 - Web Development
 - Artificial Intelligence and Machine Learning
 - DSA and Competitive Coding
 - ROS
 
-### 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on
 - Web Developmet
 - Machice Learning related stuff
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 - LinkedIN : https://www.linkedin.com/in/pratik-garai-bab1a4191/
 - HackerRank : https://www.hackerrank.com/pratikgarai0208
 
