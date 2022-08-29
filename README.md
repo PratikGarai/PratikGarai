@@ -7,10 +7,8 @@
 </p>
 
 ### 🌱 I’m currently learning
-- Web Development
 - Artificial Intelligence and Machine Learning
 - DSA and Competitive Coding
-- ROS
 
 ### 👯 I’m looking to collaborate on
 - Web Developmet
@@ -19,6 +17,8 @@
 ### 📫 How to reach me:
 - LinkedIN : https://www.linkedin.com/in/pratik-garai-bab1a4191/
 - HackerRank : https://www.hackerrank.com/pratikgarai0208
+- Kaggle : https://www.kaggle.com/pratikgarai
+- Leetcode : https://leetcode.com/pratikgarai0208/
 
 <!--
 ### 🔭 I’m currently working on ...
