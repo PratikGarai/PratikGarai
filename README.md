@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PratikGarai&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="PratikGarai" /> </p>
+
 <h1 align="center">Hi 👋, I'm Pratik Garai</h1>
 <h3 align="center">CSE Student, VIT Chennai</h3>
 <br><br>
