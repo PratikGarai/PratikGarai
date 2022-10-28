@@ -24,6 +24,7 @@
 ### ⚡ My Other Works:
 
 <p align="left">
+  <a href="https://github.com/Hate-Speech-Monitor" target="_blank"> <img src="https://avatars.githubusercontent.com/u/116787996" alt="5-bits" width="40" height="40"/> </a>
   <a href="https://github.com/Doc-Search" target="_blank"> <img src="https://avatars.githubusercontent.com/u/100062776" alt="Doc Search" width="40" height="40"/> </a>
   <a href="https://github.com/Todo-Auto-Email" target="_blank"> <img src="https://avatars.githubusercontent.com/u/107579729" alt="Todo Auto Email" width="40" height="40"/> </a>
   <a href="https://github.com/EmoDetect-BI" target="_blank"> <img src="https://avatars.githubusercontent.com/u/110223654" alt="Emo-Detect-BI" width="40" height="40"/> </a>
