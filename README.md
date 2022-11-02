@@ -17,7 +17,7 @@
 - Web Developmet
 - Machice Learning related stuff
 
-### 📫 How to reach me:
+### 📫 Related :
 - LinkedIN : https://www.linkedin.com/in/pratik-garai-bab1a4191/
 - HackerRank : https://www.hackerrank.com/pratikgarai0208
 - Kaggle : https://www.kaggle.com/pratikgarai
