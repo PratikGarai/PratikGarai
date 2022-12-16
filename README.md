@@ -34,6 +34,9 @@
   <a href="https://github.com/5-bits" target="_blank"> <img src="https://avatars.githubusercontent.com/u/78092212" alt="5-bits" width="40" height="40"/> </a>
 </p>
 
+### ⚡ Research work
+- [FedUKD: Federated UNet Model with Knowledge Distillation for Land Use Classification from Satellite and Street Views](https://arxiv.org/abs/2212.02196)
+
 <!--
 ### 🔭 I’m currently working on ...
 - 💬 Ask me about ...
