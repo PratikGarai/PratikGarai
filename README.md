@@ -35,7 +35,7 @@
 </p>
 
 ### ⚡ Research work
-- [FedUKD: Federated UNet Model with Knowledge Distillation for Land Use Classification from Satellite and Street Views](https://arxiv.org/abs/2212.02196)
+- [FedUKD: Federated UNet Model with Knowledge Distillation for Land Use Classification from Satellite and Street Views](https://arxiv.org/abs/2212.02196) [Code](https://github.com/PratikGarai/Semantic-Segmentation-UNet-Federated)
 
 <!--
 ### 🔭 I’m currently working on ...
